@@ -1,0 +1,15 @@
+C:\Users\Mr.Toshniwal\Desktop\assess type 1\DemoProject\bin\Debug\net6.0\DemoProject.exe
+C:\Users\Mr.Toshniwal\Desktop\assess type 1\DemoProject\bin\Debug\net6.0\DemoProject.deps.json
+C:\Users\Mr.Toshniwal\Desktop\assess type 1\DemoProject\bin\Debug\net6.0\DemoProject.runtimeconfig.json
+C:\Users\Mr.Toshniwal\Desktop\assess type 1\DemoProject\bin\Debug\net6.0\DemoProject.dll
+C:\Users\Mr.Toshniwal\Desktop\assess type 1\DemoProject\bin\Debug\net6.0\DemoProject.pdb
+C:\Users\Mr.Toshniwal\Desktop\assess type 1\DemoProject\obj\Debug\net6.0\DemoProject.csproj.AssemblyReference.cache
+C:\Users\Mr.Toshniwal\Desktop\assess type 1\DemoProject\obj\Debug\net6.0\DemoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.Toshniwal\Desktop\assess type 1\DemoProject\obj\Debug\net6.0\DemoProject.AssemblyInfoInputs.cache
+C:\Users\Mr.Toshniwal\Desktop\assess type 1\DemoProject\obj\Debug\net6.0\DemoProject.AssemblyInfo.cs
+C:\Users\Mr.Toshniwal\Desktop\assess type 1\DemoProject\obj\Debug\net6.0\DemoProject.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Toshniwal\Desktop\assess type 1\DemoProject\obj\Debug\net6.0\DemoProject.dll
+C:\Users\Mr.Toshniwal\Desktop\assess type 1\DemoProject\obj\Debug\net6.0\refint\DemoProject.dll
+C:\Users\Mr.Toshniwal\Desktop\assess type 1\DemoProject\obj\Debug\net6.0\DemoProject.pdb
+C:\Users\Mr.Toshniwal\Desktop\assess type 1\DemoProject\obj\Debug\net6.0\DemoProject.genruntimeconfig.cache
+C:\Users\Mr.Toshniwal\Desktop\assess type 1\DemoProject\obj\Debug\net6.0\ref\DemoProject.dll
